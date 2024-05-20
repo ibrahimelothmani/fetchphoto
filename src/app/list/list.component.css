@@ -1,0 +1,14 @@
+.height {
+    background-color: cyan;
+}
+
+.meduim {
+    background-color: rgb(215, 127, 12);
+}
+
+.low {
+    background-color: rgb(70, 59, 43);
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
